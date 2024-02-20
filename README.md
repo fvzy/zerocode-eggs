@@ -2,7 +2,7 @@
 ## ZeroCode EGGS
 > *NB*: egg Ini gratis, jangan di perjualbelikan
 
-<a href="https://ip.zerocode.pp.ua">REgister Your IP</a> | [Download Eggs](https://raw.githubusercontent.com/fvzy/zerocode-eggs/main/eggs.json "download") 
+<a href="https://ip.zerocode.pp.ua">REgister Your IP</a> | [Download Eggs](https://ip.zerocode.pp.ua/#downloadB) 
 
 ## Already included
 | Feature  | Status |
