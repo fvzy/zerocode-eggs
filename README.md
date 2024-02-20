@@ -7,7 +7,7 @@
 ## Already included
 | Feature  | Status |
 | ------------- | ------------- |
-| NVM | ✅ |
+| NVM | ❌ |
 | FFMPEG | ✅ |
 | ImageMagick | ✅ |
 | Cloudflared | ✅ |
