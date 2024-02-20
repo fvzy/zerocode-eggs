@@ -10,13 +10,15 @@
     "description": "egg nodejs pterodactyl nodejs v18, auto install speedtest, ffmpeg, imagemagick",
     "features": null,
     "docker_images": {
-        "NODEJS ZCODE": "ghcr.io\/fvzy\/zerocode:latest",
+        "NODEJS ZCODE": "ghcr.io/fvzy/zerocode:latest"
     },
     "file_denylist": [],
     "startup": "SILAHKAN START SERVER, JALANKAN SEMUA PERINTAH DI COMMAND !!",
     "config": {
         "files": "{}",
-        "startup": "{\r\n    \"done\": \"running\"\r\n}",
+        "startup": {
+            "done": "running"
+        },
         "logs": "{}",
         "stop": "^^c"
     },
